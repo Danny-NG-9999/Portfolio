@@ -1,4 +1,4 @@
-# Maggie Wolff
+# Daniel (Viet) Nguyen
 
 <p align="center">
   <a href="#about-me">CV/Resume</a> •
@@ -15,10 +15,10 @@
 
 <img src="https://your-photo-link.jpg" width="200" style="border-radius:50%;"/>
 
-**Maggie Wolff**  
-_Data Scientist_  
+**Daniel (Viet) Nguyen**  
+_Aspiring Analyst_  
 
-📍 Chicago, IL USA  
+📍 London, United Kingdom  
 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
 💻 [GitHub](https://github.com/your-username)  
 
