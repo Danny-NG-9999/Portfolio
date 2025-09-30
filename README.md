@@ -27,13 +27,9 @@ _Aspiring Analyst_
 
 ## About Me  
 
-My current work includes **advanced analysis, A/B testing, predictive modeling**, and more.  
-I enjoy mentoring and [knowledge sharing](https://example.com).  
+My current work includes **advanced analysis, A/B testing, predictive modeling**, **time series analysis** and more.  
 
-I’m currently working in the tech industry, supporting e-commerce and customer success.  
-I’m also an ambassador for [Women in Data Science (WiDS)](https://www.widsconference.org/)  
-and an organizer for [MeasureCamp Chicago](https://www.measurecamp.org/).  
-
+In my spare time, I like solving problems with data,
 In my spare time, I like solving problems with data, such as building  
 [my own recommender model](https://example.com). I also love data discussions  
 and sharing those via [podcast](https://example.com).  
