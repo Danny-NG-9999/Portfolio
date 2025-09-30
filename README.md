@@ -60,13 +60,6 @@ Here are some highlights of my work:
 
 ---
 
-## Talks  
-
-- 🎤 “Exploring Causality in Economics Data” – Guest presentation (2025)  
-- 🗣️ [Conference Talk on Time Series Analysis](https://example.com)  
-
----
-
 ## Podcast  
 
 🎧 Featured on podcasts discussing **data, tech, and analytics careers**.  
