@@ -1,7 +1,6 @@
-# Maggie Wolff
+# Daniel (Viet) Nguyen
 
-_Data Scientist focused on product, marketing, and customer success analytics._
-
+Data Enthusiast
 ---
 
 <table>
