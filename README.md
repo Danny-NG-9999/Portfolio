@@ -42,9 +42,8 @@ and sharing those via [podcast](https://example.com).
 
 ## Background  
 
-Despite a love of math and coding from a young age, I originally studied Communication  
-and worked in marketing before shifting into analytics. In 2016, I transitioned into  
-a **marketing analytics role** — and I’ve loved it ever since.  
+Despite a love of economic and coding from a young age, I originally studied Accounting and Finance  
+and worked in Finance before deciding to transition into Analytical and Economic field that's why i decided to pursue MSc Financial Economics in University of Exeter
 
 I later enrolled in a graduate **data science program** while working full-time  
 to sharpen my skills and fill knowledge gaps.  
