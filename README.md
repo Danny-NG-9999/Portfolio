@@ -3,8 +3,6 @@
 <p align="center">
   <a href="#about-me">CV/Resume</a> •
   <a href="#projects">Portfolio</a> •
-  <a href="#talks">Talks</a> •
-  <a href="#podcast">Podcast</a>
 </p>
 
 ---
