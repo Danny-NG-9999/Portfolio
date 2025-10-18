@@ -53,5 +53,5 @@ Here are some highlights of my work:
 - 📝 [Professional CV & Portfolio Website](https://danny-ng-9999.github.io//) – Showcasing my experience, projects, and professional profile, hosted on GitHub Pages.
 - ✈️ [The Impact of Airport Activity on Regional Productivity in the United Kingdom](https://github.com/Danny-NG-9999/Academic-and-Personal-Projects/tree/main/Dissertation%20Project) – Conducted PVAR test and Granger causality tests to capture dynamic, bidirectional effects between passenger volumes, freight throughput and GVA per head (controlled for aircraft movements)
 - 🛒 [ Strategic BI Analysis of the Brazilian E-Commerce Platform (Olist)](https://github.com/Danny-NG-9999/Professional-Projects/tree/main/E-Commerce) – Conducted an in-depth business intelligence study using real Olist data, applying advanced analytics and visualization to derive strategic insights.
-
+- 🧮 [FTSE and European Index Time-Series Forecasting](https://github.com/Danny-NG-9999/Academic-and-Personal-Projects/tree/main/Economic) - Comprehensive econometric study of FTSE 100 and major European indices (1985–2024), featuring ARIMA and GARCH modeling, cointegration analysis, and robust financial forecasting workflow.
 ---
